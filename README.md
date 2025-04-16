@@ -1,8 +1,6 @@
-Image translation with KISTI
-============================
-
-
-
+# Prompt Optimization using In-Context Few-Shot Learning
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10378642)<br>
+Lee, Seunghun, Jihoon Lee, Chan Ho Bae, Myung-Seok Choi, Ryong Lee, and Sangtae Ahn. "Optimizing prompts using in-context few-shot learning for text-to-image generative models." IEEE Access 12 (2024): 2660-2673.
 
 ## Object-level translation
 * Maintain the background in the original image and inpaint only the object
